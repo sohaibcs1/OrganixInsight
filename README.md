@@ -2,7 +2,7 @@
 
 # OrganixInsight
 
-### AI-based Platform for High-Content Screening of 3D Biomedical Microscopy Images
+### AI-based Platform for High-Content Screening of 3D Microscopy Images
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)
