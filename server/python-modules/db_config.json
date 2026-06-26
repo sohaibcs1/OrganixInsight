@@ -1,0 +1,7 @@
+{
+    "database": "datacollection",
+    "user": "new_user",
+    "host": "134.197.75.35",
+    "password": "1234",
+    "port": 5432
+  }

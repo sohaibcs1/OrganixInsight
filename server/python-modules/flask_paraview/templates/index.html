@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic VTP File Viewer</title>
+    <!-- <script src="https://unpkg.com/vtk.js"></script> -->
+     <script src="https://unpkg.com/vtk.js@28.3.0/vtk.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+        // Get the filename from the URL query parameter
+        const params = new URLSearchParams(window.location.search);
+        const filename = params.get('filename');
+
+        if (!filename) {
+            alert("No VTP file specified. Please use ?filename=<VTP file>");
+            throw new Error("No VTP file specified");
+        }
+
+        const fullScreenRenderer = vtk.Rendering.Misc.vtkFullScreenRenderWindow.newInstance({
+            background: [0.1, 0.1, 0.1]  // Dark gray background
+        });
+        const renderer = fullScreenRenderer.getRenderer();
+        const renderWindow = fullScreenRenderer.getRenderWindow();
+
+        const reader = vtk.IO.XML.vtkXMLPolyDataReader.newInstance();
+        const mapper = vtk.Rendering.Core.vtkMapper.newInstance();
+        const actor = vtk.Rendering.Core.vtkActor.newInstance();
+        actor.setMapper(mapper);
+        renderer.addActor(actor);
+
+        function loadVtpFile(filename) {
+            fetch(`/get_vtp/${filename}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load file: ${response.statusText}`);
+                    }
+                    return response.arrayBuffer();
+                })
+                .then(buffer => {
+                    console.log(`Received VTP data size: ${buffer.byteLength} bytes`);
+                    reader.parseAsArrayBuffer(buffer);
+                    const polydata = reader.getOutputData(0);
+
+                    // Detect the 'RegionId' scalar data for coloring
+                    const pointData = polydata.getPointData();
+                    const regionIdArray = pointData.getArray('RegionId');
+
+                    if (!regionIdArray) {
+                        alert("No 'RegionId' scalar data available for coloring.");
+                        return;
+                    }
+
+                    console.log("Using 'RegionId' scalar array for coloring.");
+
+                    // Set polydata to the mapper
+                    mapper.setInputData(polydata);
+                    mapper.setScalarModeToUsePointFieldData();  // Use point-based data for coloring
+                    mapper.setColorByArrayName('RegionId');  // Explicitly set the 'RegionId' scalar array
+                    mapper.setScalarVisibility(true);
+
+                    // Get scalar range
+                    const dataRange = regionIdArray.getRange();
+
+                    // Create color transfer function
+                    const colorTransferFunction = vtk.Rendering.Core.vtkColorTransferFunction.newInstance();
+                    for (let i = 1; i <= dataRange[1]; i++) {
+                        const color = hsvToRgb((i / dataRange[1]) * 360, 1, 1);  // Full saturation and brightness
+                        colorTransferFunction.addRGBPoint(i, ...color);
+                    }
+
+                    // Set lookup table and scalar range
+                    mapper.setLookupTable(colorTransferFunction);
+                    mapper.setScalarRange(dataRange[0], dataRange[1]);
+
+                    // Reset camera and render
+                    renderer.resetCamera();
+                    renderWindow.render();
+                })
+                .catch(error => {
+                    console.error('Error loading VTP file:', error);
+                    alert(`Error: ${error.message}`);
+                });
+        }
+
+        // HSV to RGB converter for coloring
+        function hsvToRgb(h, s, v) {
+            const f = (n, k = (n + h / 60) % 6) => v - v * s * Math.max(Math.min(k, 4 - k, 1), 0);
+            return [f(5), f(3), f(1)];  // RGB values (0-1 range)
+        }
+
+        // Resize handler
+        window.addEventListener('resize', () => {
+            fullScreenRenderer.resize();
+        });
+
+        // Load the VTP file on page load
+        loadVtpFile(filename);
+    </script>
+</body>
+</html>

@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Cell Count/Protein measurement</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      :root{
+        --bg: #0f172a;             /* slate-900 */
+        --card: #0b1225;           /* slightly lighter for cards */
+        --muted: #94a3b8;          /* slate-400 */
+        --text: #e2e8f0;           /* slate-200 */
+        --primary: #60a5fa;        /* blue-400 */
+        --primary-600: #2563eb;    /* blue-600 */
+        --ring: rgba(96,165,250,.35);
+        --ok: #10b981;             /* emerald-500 */
+        --err: #ef4444;            /* red-500 */
+        --badge: #111827;          /* gray-900 */
+        --border: #1f2937;         /* gray-800 */
+      }
+
+      @media (prefers-color-scheme: light) {
+        :root{
+          --bg: #f7fafc;
+          --card: #ffffff;
+          --muted: #4b5563;
+          --text: #111827;
+          --primary: #2563eb;
+          --primary-600: #1d4ed8;
+          --ring: rgba(37,99,235,.18);
+          --badge: #f3f4f6;
+          --border: #e5e7eb;
+        }
+      }
+
+      *{ box-sizing:border-box }
+      html,body{ height:100% }
+      body{
+        margin:0;
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+        background: radial-gradient(1200px 600px at 20% -10%, rgba(37,99,235,.08), transparent 60%),
+                    radial-gradient(1000px 500px at 110% 0%, rgba(99,102,241,.08), transparent 60%),
+                    var(--bg);
+        color:var(--text);
+        line-height:1.45;
+      }
+
+      .wrap{ max-width:1050px; margin:32px auto; padding:0 16px 48px; }
+      .page-head{ display:flex; align-items:flex-end; gap:12px; margin-bottom:18px; }
+      .title{ font-size: clamp(26px, 3.6vw, 40px); margin:0; letter-spacing:.3px; }
+      .subtitle{ color:var(--muted); margin:2px 0 0; font-size:14px; }
+
+      .card{
+        background:var(--card);
+        border:1px solid var(--border);
+        border-radius:14px;
+        box-shadow: 0 10px 30px rgba(0,0,0,.25);
+        overflow:hidden;
+      }
+      .card + .card{ margin-top:18px }
+      .card-head{ padding:14px 16px; border-bottom:1px solid var(--border); font-weight:600; color: var(--muted); letter-spacing:.3px; }
+      .card-body{ padding:16px }
+
+      .grid{ display:grid; gap:14px; }
+      .grid-2{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+      .grid-3{ grid-template-columns: repeat(3, minmax(0,1fr)); }
+      .grid-4{ grid-template-columns: repeat(4, minmax(0,1fr)); }
+      @media (max-width: 900px){ .grid-4{ grid-template-columns: repeat(2, minmax(0,1fr)); } }
+      @media (max-width: 620px){ .grid-2, .grid-3, .grid-4{ grid-template-columns: 1fr; } }
+
+      label{ display:block; font-size:12px; color:var(--muted); margin:2px 0 6px 2px; }
+      .field{ display:flex; flex-direction:column; }
+      input[type="text"], input[type="number"], select{
+        width:100%; padding:11px 12px;
+        border:1px solid var(--border);
+        background:transparent; color:var(--text);
+        border-radius:10px; outline:none;
+        transition:.15s border-color, .15s box-shadow;
+      }
+      input::placeholder{ color:color-mix(in oklab, var(--muted) 65%, transparent); }
+      input:focus, select:focus{ border-color: var(--primary); box-shadow: 0 0 0 4px var(--ring); }
+
+      .actions{ display:flex; gap:10px; flex-wrap:wrap; margin-top:12px; }
+      .btn{
+        appearance:none; border:none; cursor:pointer;
+        padding:10px 16px; border-radius:10px; font-weight:600; letter-spacing:.2px;
+        background:linear-gradient(180deg, color-mix(in oklab,var(--primary) 88%, white 0%), var(--primary-600));
+        color:white; box-shadow: 0 8px 18px rgba(37, 99, 235, .25);
+        transition: transform .06s ease, box-shadow .2s ease;
+      }
+      .btn:hover{ transform: translateY(-1px); box-shadow: 0 10px 22px rgba(37,99,235,.33); }
+      .btn:active{ transform: translateY(0); box-shadow: 0 6px 14px rgba(37,99,235,.22); }
+      .btn-secondary{ background:transparent; color:var(--text); border:1px dashed var(--border); box-shadow:none; }
+      .btn-danger{ background: linear-gradient(180deg, #ef4444, #b91c1c); box-shadow: 0 8px 18px rgba(239,68,68,.25); }
+
+      .pills{ display:flex; flex-wrap:wrap; gap:8px; margin:6px 0 0; }
+      .pill{ background:var(--badge); border:1px solid var(--border); color:var(--muted); padding:6px 10px; border-radius:999px; font-size:12px; }
+
+      .ok{ color: var(--ok); margin:8px 0 }
+      .error{ color: var(--err); margin:8px 0 }
+
+      .imgwrap{ margin-top:14px; border:1px solid var(--border); border-radius:12px; overflow:hidden; background: #0a0f1f; }
+      .imgwrap img{ display:block; width:100%; max-height: 78vh; object-fit: contain; background: #0a0f1f; }
+
+      footer{ margin-top:22px; color:var(--muted); font-size:12px; text-align:center; }
+
+      /* -------- Loading overlay + progress bar -------- */
+      .overlay{
+        position:fixed;
+        inset:0;
+        background:rgba(15,23,42,.82);
+        display:none;
+        align-items:center;
+        justify-content:center;
+        z-index:50;
+        backdrop-filter:blur(2px);
+      }
+      .overlay-inner{
+        background:var(--card);
+        border-radius:14px;
+        border:1px solid var(--border);
+        padding:18px 22px 20px;
+        max-width:320px;
+        width:90%;
+        text-align:center;
+        box-shadow:0 18px 45px rgba(0,0,0,.4);
+      }
+      .overlay-title{
+        font-size:15px;
+        font-weight:600;
+        margin-bottom:6px;
+      }
+      .overlay-text{
+        font-size:13px;
+        color:var(--muted);
+        margin:0 0 12px;
+      }
+      .progress-bar{
+        position:relative;
+        width:100%;
+        height:6px;
+        border-radius:999px;
+        background:rgba(148,163,184,.25);
+        overflow:hidden;
+      }
+      .progress-bar-fill{
+        position:absolute;
+        inset:0;
+        width:40%;
+        background:linear-gradient(90deg, var(--primary), var(--primary-600));
+        border-radius:999px;
+        animation:progressSlide 1s infinite linear;
+      }
+      @keyframes progressSlide{
+        0%{ transform:translateX(-100%); }
+        100%{ transform:translateX(250%); }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+
+      <div class="page-head">
+        <h1 class="title">Cell Count/Protein measurement</h1>
+        <p class="subtitle">Select parameters, preview overlay, then run bulk with the same settings.</p>
+      </div>
+
+      {% if error %}<p class="error">⚠️ {{ error }}</p>{% endif %}
+      {% if echo_msg %}<p class="ok">✅ {{ echo_msg }}</p>{% endif %}
+
+      <!-- Controls -->
+      <form id="count_form" class="card" action="/count" method="post">
+        <div class="card-head">Parameters</div>
+        <div class="card-body">
+          <!-- Basics -->
+          <div class="grid grid-2">
+            <div class="field">
+              <label for="rid">RID</label>
+              <input id="rid" type="text" name="rid" placeholder="randomIdOUdSMgSN" value="{{ last_rid or '' }}" required>
+              <div class="pills">{% if last_rid %}<span class="pill">last: {{ last_rid }}</span>{% endif %}</div>
+            </div>
+            <div class="field">
+              <label for="filename">Filename</label>
+              <input id="filename" type="text" name="filename" placeholder="B1_P1.tif" value="{{ last_filename or '' }}" required>
+              <div class="pills">{% if last_filename %}<span class="pill">last: {{ last_filename }}</span>{% endif %}</div>
+            </div>
+          </div>
+
+          <!-- Numeric params -->
+          <div class="grid grid-3" style="margin-top:10px;">
+            <div class="field">
+              <label for="min_sigma">min_sigma</label>
+              <input id="min_sigma" type="number" step="0.1" name="min_sigma" value="{{ (last_params.min_sigma if last_params else defaults.min_sigma) }}">
+            </div>
+            <div class="field">
+              <label for="max_sigma">max_sigma</label>
+              <input id="max_sigma" type="number" step="0.1" name="max_sigma" value="{{ (last_params.max_sigma if last_params else defaults.max_sigma) }}">
+            </div>
+            <div class="field">
+              <label for="threshold">threshold</label>
+              <input id="threshold" type="number" step="0.0001" name="threshold" value="{{ (last_params.threshold if last_params else defaults.threshold) }}">
+            </div>
+          </div>
+
+          <!-- Top/Low -->
+          <div class="grid grid-2" style="margin-top:10px;">
+            <div class="field">
+              <label for="top_n">Top (N brightest → median)</label>
+              <input id="top_n" type="number" step="1" min="0" name="top_n" value="{{ (last_params.top_n if last_params else defaults.top_n) }}">
+            </div>
+            <div class="field">
+              <label for="low_n">Low (N darkest → median)</label>
+              <input id="low_n" type="number" step="1" min="0" name="low_n" value="{{ (last_params.low_n if last_params else defaults.low_n) }}">
+            </div>
+          </div>
+
+          <!-- Protein measurements -->
+          <div class="field" style="margin-top:14px;">
+            <label>
+              <input type="checkbox" id="protein_measurements" name="protein_measurements"
+                     {% if last_params and last_params.protein_measurements %}checked{% endif %}>
+              Protein measurements
+            </label>
+          </div>
+          <div id="protein_opts" style="margin-top:12px; display:none;">
+            <div class="grid grid-2">
+              <div class="field">
+                <label for="protein_region">Region</label>
+                <select id="protein_region" name="protein_region">
+                  <option value="nucli" {% if last_params and last_params.protein_region == 'nucli' %}selected{% endif %}>nucli</option>
+                  <option value="prinucli" {% if last_params and last_params.protein_region == 'prinucli' %}selected{% endif %}>prinucli </option>
+                </select>
+              </div>
+              <div class="field" id="dilation_field" style="display:none;">
+                <label for="dilation_radius">dilation_radius (px)</label>
+                <input id="dilation_radius" type="number" step="1" name="dilation_radius"
+                       value="{{ (last_params.dilation_radius if last_params else defaults.dilation_radius) }}">
+              </div>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button type="submit" class="btn">Visualize Overlay</button>
+            <button type="reset" class="btn btn-secondary" id="reset_btn">Reset</button>
+          </div>
+        </div>
+      </form>
+
+      <!-- Result -->
+      {% if last_image %}
+        <div class="card">
+          <div class="card-head">Result</div>
+          <div class="card-body">
+            {% if base_image_data_url or overlay_data_url or (last_params.protein_measurements and marker_image_data_url) %}
+              <div class="imgwrap" style="padding:14px">
+                <div class="grid {% if last_params.protein_measurements and marker_image_data_url %}grid-3{% else %}grid-2{% endif %}">
+                  <div>
+                    <div class="pills"><span class="pill">Processed (no overlay)</span></div>
+                    {% if base_image_data_url %}<img src="{{ base_image_data_url }}" alt="Processed image">{% endif %}
+                  </div>
+                  <div>
+                    <div class="pills">
+                      <span class="pill">Processed + Blobs{% if last_count is not none %} — {{ last_count }} cells{% endif %}</span>
+                    </div>
+                    {% if overlay_data_url %}<img src="{{ overlay_data_url }}" alt="Overlay image">{% endif %}
+                  </div>
+                  {% if last_params.protein_measurements and marker_image_data_url %}
+                  <div>
+                    <div class="pills">
+                      {% if last_params.protein_region == 'prinucli' %}
+                        <span class="pill">Marker (ch1) + Perinuclear (r + {{ last_params.dilation_radius }}px)</span>
+                      {% else %}
+                        <span class="pill">Marker (ch1) + Nuclear Circles</span>
+                      {% endif %}
+                    </div>
+                    <img src="{{ marker_image_data_url }}" alt="Marker overlay">
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+            {% endif %}
+
+            {% if bulk_ready %}
+              <form id="bulk_form" action="/bulk_run" method="post" class="actions" style="margin-top:14px;">
+                <button type="submit" class="btn btn-danger">Run Bulk with Same Params</button>
+              </form>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      <footer>© Cell Count — Single Image</footer>
+    </div>
+
+    <!-- Loading overlay -->
+    <div id="loading_overlay" class="overlay">
+      <div class="overlay-inner">
+        <div class="overlay-title">Running analysis…</div>
+        <p class="overlay-text">Please wait while we process the image(s).</p>
+        <div class="progress-bar">
+          <div class="progress-bar-fill"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const chk = document.getElementById('protein_measurements');
+      const opts = document.getElementById('protein_opts');
+      const regionSel = document.getElementById('protein_region');
+      const dilField = document.getElementById('dilation_field');
+      const resetBtn = document.getElementById('reset_btn');
+
+      function syncProtein() {
+        const on = chk && chk.checked;
+        if (opts) opts.style.display = on ? 'block' : 'none';
+        if (dilField && regionSel) {
+          dilField.style.display = (on && regionSel.value === 'prinucli') ? 'block' : 'none';
+        }
+      }
+      if (chk) {
+        chk.addEventListener('change', syncProtein);
+      }
+      if (regionSel) {
+        regionSel.addEventListener('change', syncProtein);
+      }
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          setTimeout(syncProtein, 0);
+        });
+      }
+      syncProtein();
+
+      // ---------- Loading overlay logic ----------
+      const overlay = document.getElementById('loading_overlay');
+      const countForm = document.getElementById('count_form');
+      const bulkForm = document.getElementById('bulk_form');
+
+      function showOverlay() {
+        if (overlay) {
+          overlay.style.display = 'flex';
+        }
+      }
+
+      if (countForm) {
+        countForm.addEventListener('submit', () => {
+          showOverlay();
+        });
+      }
+
+      if (bulkForm) {
+        bulkForm.addEventListener('submit', () => {
+          showOverlay();
+        });
+      }
+    </script>
+  </body>
+</html>

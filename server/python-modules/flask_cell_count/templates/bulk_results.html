@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bulk Results</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 2rem; color:#111827; }
+      h1 { color:#1f2937; margin-top:0; }
+      table { border-collapse: collapse; width: 100%; margin-top:1rem; }
+      th, td { border: 1px solid #d1d5db; padding: .5rem .75rem; text-align:left; }
+      th { background:#f9fafb; }
+      .pill { display:inline-block; padding:.2rem .5rem; background:#f3f4f6; border:1px solid #e5e7eb; border-radius:999px; margin-right:.35rem; }
+      a { color:#2563eb; text-decoration:none; }
+    </style>
+  </head>
+  <body>
+    <h1>📊 Bulk Results</h1>
+
+    <div>
+      <span class="pill">min_sigma={{ params.min_sigma }}</span>
+      <span class="pill">max_sigma={{ params.max_sigma }}</span>
+      <span class="pill">threshold={{ params.threshold }}</span>
+      <span class="pill">dilation_radius={{ params.dilation_radius }}</span>
+      <span class="pill">enhance={{ params.enhance }}</span>
+    </div>
+
+    <p><strong>Base path:</strong> {{ base_path }}</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>File</th>
+          <th>Cell Count</th>
+          <th>Error</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in results %}
+          <tr>
+            <td>{{ r.file }}</td>
+            <td>{{ r.count if r.count is not none else '—' }}</td>
+            <td>{{ r.error if r.error else '' }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <p style="margin-top:1rem;">
+      <a href="{{ url_for('home') }}">⬅ Back to Single Image</a>
+    </p>
+  </body>
+</html>

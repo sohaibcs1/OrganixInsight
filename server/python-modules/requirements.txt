@@ -1,0 +1,109 @@
+# ==========================================================
+# OrganixInsight
+# Python 3.10+
+# ==========================================================
+
+# ------------------------
+# Web Framework
+# ------------------------
+Flask
+Flask-Cors
+requests
+python-socketio
+
+# ------------------------
+# Database
+# ------------------------
+psycopg2-binary
+
+# ------------------------
+# Numerical Computing
+# ------------------------
+numpy
+scipy
+pandas
+
+# ------------------------
+# Machine Learning
+# ------------------------
+torch
+torchvision
+torchaudio
+monai
+
+# ------------------------
+# Image Processing
+# ------------------------
+opencv-python
+scikit-image
+scikit-learn
+Pillow
+tifffile
+imageio
+
+# ------------------------
+# Microscopy Formats
+# ------------------------
+aicsimageio
+aicspylibczi
+ome-types
+bioio
+bioio-czi
+
+# ------------------------
+# Medical Imaging
+# ------------------------
+nibabel
+SimpleITK
+
+# ------------------------
+# Connected Components
+# ------------------------
+connected-components-3d
+
+# ------------------------
+# Visualization
+# ------------------------
+matplotlib
+plotly
+vtk
+
+# ------------------------
+# Scientific Utilities
+# ------------------------
+networkx
+tqdm
+joblib
+
+# ------------------------
+# File Formats
+# ------------------------
+openpyxl
+xlsxwriter
+
+# ------------------------
+# JSON / YAML
+# ------------------------
+PyYAML
+
+# ------------------------
+# Statistics
+# ------------------------
+statsmodels
+
+# ------------------------
+# Progress Bars
+# ------------------------
+rich
+
+# ------------------------
+# Optional GPU Monitoring
+# ------------------------
+psutil
+
+# ------------------------
+# Development Utilities
+# ------------------------
+python-dotenv
+
+# ==========================================================

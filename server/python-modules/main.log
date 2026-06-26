@@ -1,0 +1,1596 @@
+25-Jun-26 13:37:28 - bfio.backends - WARNING  - Java backend is not available. This could be due to a missing dependency (jpype).
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1001. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1002. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+running.
+connection established
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594'}]
+[INFO] Matched overlay channel: 1 AF594 -> MKI67
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (61, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2150
+Original mask shape: (107, 177, 210)
+Original raw shape : (61, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (61, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (75, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 1076
+Original mask shape: (107, 177, 210)
+Original raw shape : (75, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (75, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 876
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (64, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2101
+Original mask shape: (78, 177, 210)
+Original raw shape : (64, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (64, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1502
+Original mask shape: (83, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1003. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1003. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1003. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1003. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+/home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (61, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2150
+Original mask shape: (61, 177, 210)
+Original raw shape : (61, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (61, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (75, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 1076
+Original mask shape: (75, 177, 210)
+Original raw shape : (75, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (75, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 876
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1502
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (64, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2101
+Original mask shape: (64, 177, 210)
+Original raw shape : (64, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (64, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_EV_apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (65, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 4348
+Original mask shape: (82, 177, 210)
+Original raw shape : (65, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (65, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (83, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 3937
+Original mask shape: (73, 177, 210)
+Original raw shape : (83, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (83, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1003. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (73, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2601
+Original mask shape: (94, 177, 210)
+Original raw shape : (73, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (73, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 4787
+Original mask shape: (81, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (80, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 7717
+Original mask shape: (81, 177, 210)
+Original raw shape : (80, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (80, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (65, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 4348
+Original mask shape: (65, 177, 210)
+Original raw shape : (65, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (65, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (83, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 3937
+Original mask shape: (83, 177, 210)
+Original raw shape : (83, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (83, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 4787
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (80, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 7717
+Original mask shape: (80, 177, 210)
+Original raw shape : (80, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (80, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (73, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2601
+Original mask shape: (73, 177, 210)
+Original raw shape : (73, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (73, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_OE_apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1004. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+{'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (51, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 6 16647
+Original mask shape: (51, 177, 210)
+Original raw shape : (51, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (51, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (60, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 10626
+Original mask shape: (60, 177, 210)
+Original raw shape : (60, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (60, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (57, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 6 8197
+Original mask shape: (57, 177, 210)
+Original raw shape : (57, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (57, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (54, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 5659
+Original mask shape: (54, 177, 210)
+Original raw shape : (54, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (54, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (43, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 4039
+Original mask shape: (43, 177, 210)
+Original raw shape : (43, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (43, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11_apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (43, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 0 65481
+Original mask shape: (43, 177, 210)
+Original raw shape : (43, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (43, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11-06_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D_shIL11-06_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+Traceback (most recent call last):
+  File "/home/msohaib/3D_organixInsight/server/python-modules/positive.py", line 454, in run_positive_for_experiments
+    raise ValueError(
+ValueError: No matching positive channels found for experiment=1005. Available channels=[{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]. Experiment mapping={'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (41, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 5 491
+Original mask shape: (41, 177, 210)
+Original raw shape : (41, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (41, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (74, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 262
+Original mask shape: (74, 177, 210)
+Original raw shape : (74, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (74, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 101
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (64, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 241
+Original mask shape: (64, 177, 210)
+Original raw shape : (64, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (64, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF594': {'marker': 'MKI67', 'marker_type': 'Primary', 'secondary': 'AF594', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF594', 'normalized_name': 'AF594'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 327
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D RAko apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647'}]
+[INFO] Matched overlay channel: 1 AF488 -> CTNNB
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 221
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 932
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 10926
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 973
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (60, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 6 18659
+Original mask shape: (60, 177, 210)
+Original raw shape : (60, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (60, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (60, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 15070
+Original mask shape: (60, 177, 210)
+Original raw shape : (60, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (60, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (56, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 145
+Original mask shape: (56, 177, 210)
+Original raw shape : (56, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (56, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (56, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 738
+Original mask shape: (56, 177, 210)
+Original raw shape : (56, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (56, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (70, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 193
+Original mask shape: (70, 177, 210)
+Original raw shape : (70, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (70, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (70, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 1500
+Original mask shape: (70, 177, 210)
+Original raw shape : (70, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (70, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (86, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 318
+Original mask shape: (86, 177, 210)
+Original raw shape : (86, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (86, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-06_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-06_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (86, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 714
+Original mask shape: (86, 177, 210)
+Original raw shape : (86, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (86, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-06_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-06_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (62, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 5104
+Original mask shape: (62, 177, 210)
+Original raw shape : (62, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (62, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-07_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-07_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (62, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 0 64300
+Original mask shape: (62, 177, 210)
+Original raw shape : (62, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (62, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-07_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-07_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (80, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 48
+Original mask shape: (80, 177, 210)
+Original raw shape : (80, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (80, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-08_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-08_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (80, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 596
+Original mask shape: (80, 177, 210)
+Original raw shape : (80, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (80, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-08_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-08_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (100, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 104
+Original mask shape: (100, 177, 210)
+Original raw shape : (100, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (100, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-09_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-09_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (100, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 186
+Original mask shape: (100, 177, 210)
+Original raw shape : (100, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (100, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-09_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-09_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (82, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 82
+Original mask shape: (82, 177, 210)
+Original raw shape : (82, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (82, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-10_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-10_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (82, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 11
+Original mask shape: (82, 177, 210)
+Original raw shape : (82, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (82, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-10_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-10_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (76, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 133
+Original mask shape: (76, 177, 210)
+Original raw shape : (76, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (76, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-11_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-11_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (76, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 186
+Original mask shape: (76, 177, 210)
+Original raw shape : (76, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (76, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-11_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-11_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (76, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 65
+Original mask shape: (76, 177, 210)
+Original raw shape : (76, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (76, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-12_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-12_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (76, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 70
+Original mask shape: (76, 177, 210)
+Original raw shape : (76, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (76, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-12_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-12_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (69, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 418
+Original mask shape: (69, 177, 210)
+Original raw shape : (69, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (69, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-13_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-13_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (69, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 13757
+Original mask shape: (69, 177, 210)
+Original raw shape : (69, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (69, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-13_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-13_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (66, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 324
+Original mask shape: (66, 177, 210)
+Original raw shape : (66, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (66, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-20_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-20_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (66, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 819
+Original mask shape: (66, 177, 210)
+Original raw shape : (66, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (66, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-20_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-20_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (69, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 261
+Original mask shape: (69, 177, 210)
+Original raw shape : (69, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (69, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-14_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-14_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (69, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1278
+Original mask shape: (69, 177, 210)
+Original raw shape : (69, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (69, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-14_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-14_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (89, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 15
+Original mask shape: (89, 177, 210)
+Original raw shape : (89, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (89, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-19_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-19_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (89, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 18
+Original mask shape: (89, 177, 210)
+Original raw shape : (89, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (89, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-19_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-19_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (88, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 0 315
+Original mask shape: (88, 177, 210)
+Original raw shape : (88, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (88, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-15_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-15_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (88, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 707
+Original mask shape: (88, 177, 210)
+Original raw shape : (88, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (88, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-15_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-15_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (73, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 35
+Original mask shape: (73, 177, 210)
+Original raw shape : (73, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (73, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-18_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-18_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (73, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 246
+Original mask shape: (73, 177, 210)
+Original raw shape : (73, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (73, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-18_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-18_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (88, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 342
+Original mask shape: (88, 177, 210)
+Original raw shape : (88, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (88, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-16_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-16_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (88, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 847
+Original mask shape: (88, 177, 210)
+Original raw shape : (88, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (88, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-16_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-16_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (89, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 32
+Original mask shape: (89, 177, 210)
+Original raw shape : (89, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (89, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-17_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-17_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (89, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 240
+Original mask shape: (89, 177, 210)
+Original raw shape : (89, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (89, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-17_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/Ca1D apotome-17_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 206
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 721
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (71, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 126
+Original mask shape: (71, 177, 210)
+Original raw shape : (71, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (71, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-17_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-17_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (71, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 267
+Original mask shape: (71, 177, 210)
+Original raw shape : (71, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (71, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-17_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-17_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 9743
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 2224
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (105, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 130
+Original mask shape: (105, 177, 210)
+Original raw shape : (105, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (105, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-18_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-18_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (105, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 208
+Original mask shape: (105, 177, 210)
+Original raw shape : (105, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (105, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-18_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-18_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (105, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 85
+Original mask shape: (105, 177, 210)
+Original raw shape : (105, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (105, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-19_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-19_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (105, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 34
+Original mask shape: (105, 177, 210)
+Original raw shape : (105, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (105, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-19_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-19_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (70, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 243
+Original mask shape: (70, 177, 210)
+Original raw shape : (70, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (70, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-20_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-20_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (70, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 792
+Original mask shape: (70, 177, 210)
+Original raw shape : (70, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (70, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-20_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-20_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (93, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 1005
+Original mask shape: (93, 177, 210)
+Original raw shape : (93, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (93, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (93, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1128
+Original mask shape: (93, 177, 210)
+Original raw shape : (93, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (93, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 636
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-08_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-08_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 1634
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-08_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-08_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (74, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 81
+Original mask shape: (74, 177, 210)
+Original raw shape : (74, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (74, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-09_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-09_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (74, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 57
+Original mask shape: (74, 177, 210)
+Original raw shape : (74, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (74, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-09_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-09_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (62, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 2625
+Original mask shape: (62, 177, 210)
+Original raw shape : (62, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (62, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-14_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-14_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (62, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 143
+Original mask shape: (62, 177, 210)
+Original raw shape : (62, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (62, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-14_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-14_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (54, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 752
+Original mask shape: (54, 177, 210)
+Original raw shape : (54, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (54, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-15_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-15_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (54, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1381
+Original mask shape: (54, 177, 210)
+Original raw shape : (54, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (54, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-15_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-15_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (75, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1101
+Original mask shape: (75, 177, 210)
+Original raw shape : (75, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (75, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (75, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 52
+Original mask shape: (75, 177, 210)
+Original raw shape : (75, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (75, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (77, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 180
+Original mask shape: (77, 177, 210)
+Original raw shape : (77, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (77, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-07_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-07_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (77, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 50
+Original mask shape: (77, 177, 210)
+Original raw shape : (77, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (77, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-07_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-07_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (82, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 256
+Original mask shape: (82, 177, 210)
+Original raw shape : (82, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (82, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-10_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-10_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (82, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 754
+Original mask shape: (82, 177, 210)
+Original raw shape : (82, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (82, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-10_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-10_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (44, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 460
+Original mask shape: (44, 177, 210)
+Original raw shape : (44, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (44, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-13_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-13_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (44, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 2297
+Original mask shape: (44, 177, 210)
+Original raw shape : (44, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (44, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-13_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-13_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (54, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 0 33616
+Original mask shape: (54, 177, 210)
+Original raw shape : (54, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (54, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-16_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-16_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (54, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 0 65259
+Original mask shape: (54, 177, 210)
+Original raw shape : (54, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (54, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-16_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-16_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 103
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (84, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 43
+Original mask shape: (84, 177, 210)
+Original raw shape : (84, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (84, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (65, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 498
+Original mask shape: (65, 177, 210)
+Original raw shape : (65, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (65, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-06_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-06_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (65, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 120
+Original mask shape: (65, 177, 210)
+Original raw shape : (65, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (65, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-06_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-06_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (66, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1557
+Original mask shape: (66, 177, 210)
+Original raw shape : (66, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (66, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-11_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-11_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (66, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 4
+Original mask shape: (66, 177, 210)
+Original raw shape : (66, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (66, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-11_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-11_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}, 'AF488': {'marker': 'CTNNB', 'marker_type': 'Primary', 'secondary': 'AF488', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (70, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 50
+Original mask shape: (70, 177, 210)
+Original raw shape : (70, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (70, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-12_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-12_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+Raw CZI shape Z,Y,X: (70, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 46
+Original mask shape: (70, 177, 210)
+Original raw shape : (70, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (70, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-12_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/DCIS apotome-12_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (62, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1354
+Original mask shape: (62, 177, 210)
+Original raw shape : (62, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (62, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (75, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 138
+Original mask shape: (75, 177, 210)
+Original raw shape : (75, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (75, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (130, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 108
+Original mask shape: (130, 177, 210)
+Original raw shape : (130, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (130, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-01_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-01_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (80, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 0 65535
+Original mask shape: (80, 177, 210)
+Original raw shape : (80, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (80, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-06_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-06_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 3145
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 1016
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-07_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-07_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (68, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 225
+Original mask shape: (68, 177, 210)
+Original raw shape : (68, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (68, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-08_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-08_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (85, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 315
+Original mask shape: (85, 177, 210)
+Original raw shape : (85, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (85, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (82, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 549
+Original mask shape: (82, 177, 210)
+Original raw shape : (82, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (82, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-09_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-09_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (103, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 12914
+Original mask shape: (103, 177, 210)
+Original raw shape : (103, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (103, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-10_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/AT1 apotome-10_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (59, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 2866
+Original mask shape: (59, 177, 210)
+Original raw shape : (59, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (59, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-03_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-03_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (67, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 3128
+Original mask shape: (67, 177, 210)
+Original raw shape : (67, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (67, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-02_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-02_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (55, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 65322
+Original mask shape: (55, 177, 210)
+Original raw shape : (55, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (55, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-05_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-05_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (69, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 917
+Original mask shape: (69, 177, 210)
+Original raw shape : (69, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (69, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-04_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-04_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (44, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 782
+Original mask shape: (44, 177, 210)
+Original raw shape : (44, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (44, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-07_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-07_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (65, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 706
+Original mask shape: (65, 177, 210)
+Original raw shape : (65, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (65, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-12_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-12_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (72, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 583
+Original mask shape: (72, 177, 210)
+Original raw shape : (72, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (72, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-17_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-17_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (45, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 4 2574
+Original mask shape: (45, 177, 210)
+Original raw shape : (45, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (45, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-09_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-09_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (65, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 1 597
+Original mask shape: (65, 177, 210)
+Original raw shape : (65, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (65, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-11_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-11_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (13, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 14 19673
+Original mask shape: (13, 177, 210)
+Original raw shape : (13, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (13, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-20_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-20_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (61, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 622
+Original mask shape: (61, 177, 210)
+Original raw shape : (61, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (61, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-10_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-10_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (61, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 326
+Original mask shape: (61, 177, 210)
+Original raw shape : (61, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (61, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-08_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-08_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (44, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 2 1258
+Original mask shape: (44, 177, 210)
+Original raw shape : (44, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (44, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-21_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-21_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: [{'channel_index': 0, 'channel_name': 'DAPI', 'normalized_name': 'DAPI'}, {'channel_index': 1, 'channel_name': 'AF488', 'normalized_name': 'AF488'}, {'channel_index': 2, 'channel_name': 'AF647', 'normalized_name': 'AF647'}]
+Raw CZI shape Z,Y,X: (53, 1028, 1216)
+Raw CZI dtype: uint16
+Raw CZI min/max: 3 1343
+Original mask shape: (53, 177, 210)
+Original raw shape : (53, 1028, 1216)
+Selected mask transpose: (0, 1, 2)
+Final resized mask shape: (53, 1028, 1216)
+Saved summary: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-14_processed_intensity_analysis/intensity_positive_negative_summary.csv
+Saved per-cell intensity: /home/msohaib/3D_organixInsight/server/python-modules/positive_cells_3d/MCF-10A apotome-14_processed_intensity_analysis/per_cell_intensity_positive_negative.csv
+[INFO] Experiment mapping: {'AF647': {'marker': 'ITGB4', 'marker_type': 'Primary', 'secondary': 'AF647', 'source': 'primary_secondary'}}
+[INFO] Available CZI channels: 

@@ -1,0 +1,112 @@
+
+ Dev mode.......... spa
+ Pkg quasar........ v2.11.5
+ Pkg @quasar/app... v3.3.3
+ Pkg webpack....... v5
+ Debugging......... enabled
+
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ Configured browser support (>= 84.56% of global marketshare):
+ · Chrome for Android >= 119
+ · Firefox for Android >= 119
+ · Android >= 119
+ · Chrome >= 111
+ · Edge >= 117
+ · Firefox >= 111
+ · iOS >= 15.6-15.7
+ · Opera >= 100
+ · Safari >= 16.3
+
+ App • Chaining "UI" Webpack config
+ App •  WAIT  • Compiling of "UI" in progress...
+ App •  DONE  • "UI" compiled with success • 21133ms
+
+ App •  READY  • Compiled: "UI"
+
+ » App dir........... /home/msohaib/3D_organixInsight
+ » App URL........... http://localhost:8080
+                      http://134.197.75.35:8080
+                      http://134.197.75.222:8080
+                      http://100.121.25.65:8080
+ » Dev mode.......... spa
+ » Pkg quasar........ v2.11.5
+ » Pkg @quasar/app... v3.3.3
+ » Transpiled JS..... yes (Babel)
+
+ App •  WAIT  • Compiling of "UI" in progress...
+ App •  DONE  • "UI" compiled with success • 1265ms
+
+ App •  READY  • Compiled: "UI"
+
+ » App dir........... /home/msohaib/3D_organixInsight
+ » App URL........... http://localhost:8080
+                      http://134.197.75.35:8080
+                      http://134.197.75.222:8080
+                      http://100.121.25.65:8080
+ » Dev mode.......... spa
+ » Pkg quasar........ v2.11.5
+ » Pkg @quasar/app... v3.3.3
+ » Transpiled JS..... yes (Babel)
+
+ App •  WAIT  • Compiling of "UI" in progress...
+ App •  DONE  • "UI" compiled with success • 1078ms
+
+ App •  READY  • Compiled: "UI"
+
+ » App dir........... /home/msohaib/3D_organixInsight
+ » App URL........... http://localhost:8080
+                      http://134.197.75.35:8080
+                      http://134.197.75.222:8080
+                      http://100.121.25.65:8080
+ » Dev mode.......... spa
+ » Pkg quasar........ v2.11.5
+ » Pkg @quasar/app... v3.3.3
+ » Transpiled JS..... yes (Babel)
+
+ App •  WAIT  • Compiling of "UI" in progress...
+ App •  DONE  • "UI" compiled with success • 813ms
+
+ App •  READY  • Compiled: "UI"
+
+ » App dir........... /home/msohaib/3D_organixInsight
+ » App URL........... http://localhost:8080
+                      http://134.197.75.35:8080
+                      http://134.197.75.222:8080
+                      http://100.121.25.65:8080
+ » Dev mode.......... spa
+ » Pkg quasar........ v2.11.5
+ » Pkg @quasar/app... v3.3.3
+ » Transpiled JS..... yes (Babel)
+
+ App •  WAIT  • Compiling of "UI" in progress...
+ App •  DONE  • "UI" compiled with success • 1048ms
+
+ App •  READY  • Compiled: "UI"
+
+ » App dir........... /home/msohaib/3D_organixInsight
+ » App URL........... http://localhost:8080
+                      http://134.197.75.35:8080
+                      http://134.197.75.222:8080
+                      http://100.121.25.65:8080
+ » Dev mode.......... spa
+ » Pkg quasar........ v2.11.5
+ » Pkg @quasar/app... v3.3.3
+ » Transpiled JS..... yes (Babel)
+
+ App •  WAIT  • Compiling of "UI" in progress...
+ App •  DONE  • "UI" compiled with success • 739ms
+
+ App •  READY  • Compiled: "UI"
+
+ » App dir........... /home/msohaib/3D_organixInsight
+ » App URL........... http://localhost:8080
+                      http://134.197.75.35:8080
+                      http://134.197.75.222:8080
+                      http://100.121.25.65:8080
+ » Dev mode.......... spa
+ » Pkg quasar........ v2.11.5
+ » Pkg @quasar/app... v3.3.3
+ » Transpiled JS..... yes (Babel)
+
