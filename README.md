@@ -25,10 +25,10 @@ OrganixInsight is an integrated web platform for high-content screening of 2D an
 - Resource and experiment management
 - Image upload and metadata management
 - AI-based 2D and 3D image segmentation
-- Cell counting and morphometric analysis
+- Organoid Morphology
 - Basal/Non-basal cell classification
-- Positive/Negative marker quantification
-- Protein intensity measurement
+- Subtyping
+- Protein Localization
 - Heatmap generation
 - Statistical analysis and CSV export
 - Interactive VTK-based 3D visualization
